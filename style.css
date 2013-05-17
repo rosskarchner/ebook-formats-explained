@@ -24,3 +24,20 @@ table.comparison tr:nth-child(2n){
 .check{
     width:6ex;
 }
+
+.hero-unit{
+    background-color:#b6c3c9;
+    border: 12px solid black;
+    text-shadow: 2px 2px #c6ced2;
+
+}
+
+.pdf{
+    color:#ec3c3e;
+}
+.epub{
+    color:#83ba0a;
+}
+.mobi{
+    color:#225ca3;
+}
