@@ -1,0 +1,26 @@
+#drmsidebar{
+    background-color:#eeeeee;
+}
+#drmsidebar p{
+    margin:1em;
+}
+table.comparison{
+    margin-top:1em;
+    font-size:1.25em;
+    width:100%
+}
+
+table.comparison td{
+    text-align:center;
+}
+table.comparison th{
+    background-color:black;
+    color: white;
+}
+table.comparison tr:nth-child(2n){
+    background-color:#ccc;
+}
+
+.check{
+    width:6ex;
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="159.33357" height="151.82442" id="svg1871" sodipodi:version="0.32" inkscape:version="0.44.1" version="1.0" sodipodi:docbase="/home/hsl/Desktop" sodipodi:docname="Checkmark.svg">
+  <defs id="defs1873"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.4897181" inkscape:cx="79.666786" inkscape:cy="75.912209" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="823" inkscape:window-height="578" inkscape:window-x="203" inkscape:window-y="171"/>
+  <g inkscape:label="Ebene 1" inkscape:groupmode="layer" id="layer1" transform="translate(-103.1904,-530.7357)">
+    <path style="fill:#00d400;fill-rule:evenodd;stroke:none;stroke-width:0.33565786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 256.75776,532.51341 C 225.82752,558.86879 193.96254,586.75924 177.75063,624.96275 C 174.80445,631.36054 172.35811,638.4051 170.13276,644.88841 C 155.41094,625.66184 131.09454,618.12196 109.60151,609.16966 C 99.519808,604.91038 103.06656,615.74133 108.43139,618.64884 C 135.29682,632.00512 160.10686,657.76988 175.77427,682.56011 C 187.41599,626.93837 225.37011,580.95869 261.00741,538.10645 C 264.01888,534.55204 262.51636,527.41305 256.75776,532.51341 z " id="path1872" sodipodi:nodetypes="cccccccc" inkscape:export-filename="/home/hsl/Desktop/Checkmark.png" inkscape:export-xdpi="200.03999" inkscape:export-ydpi="200.03999"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Green Checkmark and Red Minus</dc:title>
+        <dc:date>2009-05-18T07:22:45</dc:date>
+        <dc:description>Two Symbols:\nGreen Checkmark Symbol (aka "yes"),\nRed Minus Symbol (aka "no")</dc:description>
+        <dc:source>http://openclipart.org/detail/26048/green-checkmark-and-red-minus-by-anselmus</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anselmus</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>check</rdf:li>
+            <rdf:li>check</rdf:li>
+            <rdf:li>checkmark</rdf:li>
+            <rdf:li>checkmark</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>symbol</rdf:li>
+            <rdf:li>symbol</rdf:li>
+            <rdf:li>uncheck</rdf:li>
+            <rdf:li>uncheck</rdf:li>
+            <rdf:li>untick</rdf:li>
+            <rdf:li>untick</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

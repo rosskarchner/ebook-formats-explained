@@ -13,6 +13,7 @@
       }
     </style>
     <link href="b/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -65,6 +66,7 @@
                 <li>Digital Right Management (or DRM)</li>
             </ul>
             <p>Technical compatability simply means that they don't share much information about how their book files work. DRM is a method of scrambling (or encrypting) a file so that only the intended customer can read it, and only using hardware or software supplied by that vendor. DRM is why you can't email a Kindle book to your aunt, view a movie from the iTunes store on a Windows Phone, and even why certain DVD's only work in certain countries.</p>
+            <p> DRM also allows your access to a book to be revoked-- Kindle has done this when they <a href="http://www.pcworld.com/article/168654/kindle_e_book.html">lost the right to sell a book</a>, and Nook has done this <a href="https://www.techdirt.com/articles/20121126/18084721154/barnes-noble-decides-that-purchased-ebooks-are-only-yours-until-your-credit-card-expires.shtml">when credit cards expire</a>.
         </div>
         <div class="span4" id="drmsidebar">
             <div align="center">
@@ -73,8 +75,43 @@
             alt="DRM is DefectiveByDesign"
             width="150" height="150" border="0" align="middle" /></a>
             </div>
-        <p><em>For some, DRM isn't just a practical concern, but an affront to freedom in the digital age. If you can't use a book (or song, or movie, or app) in any way you like, do you really own it?</em></p>
+        <p><em>For some, DRM isn't just a practical concern, but an affront to freedom in the digital age.</em></p>
         <p><em>Learn more about the fight against DRM at <a href="http://www.defectivebydesign.org/">Defective by Design</a>.</em></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="span10">
+
+            <table class="comparison" id="propformats">
+                <tr>
+                    <th> Format</th>
+                    <th> Readable on any device?</th>
+                    <th> Lendable? </th>
+                    <th> Can be converted between formats </th>
+                    <th> non-revokable </th>
+                </tr>
+                <tr>
+                    <td><img src="images/kindle-logo.gif"/></td>
+                    <td>If they've made an app</td>
+                    <td>With restrictions</td>
+                    <td><img src="images/red-minus.svg" class="check"/></td>
+                    <td><img src="images/red-minus.svg" class="check"/></td>
+                </tr>
+                <tr>
+                    <td><img src="images/nook-logo.gif"/></td>
+                    <td>If they've made an app</td>
+                    <td>With restrictions</td>
+                    <td><img src="images/red-minus.svg" class="check"/></td>
+                    <td><img src="images/red-minus.svg" class="check"/></td>
+                </tr>
+                <tr>
+                    <td><img src="images/open-logos.gif"/></td>
+                    <td><img src="images/green-check.svg" class="check"/></td>
+                    <td><img src="images/green-check.svg" class="check"/></td>
+                    <td><img src="images/green-check.svg" class="check"/></td>
+                    <td><img src="images/green-check.svg" class="check"/></td>
+
+            </table>
         </div>
     </div>
     <h2>App's and Devices</h2>
@@ -134,7 +171,11 @@
         <dt>How can I make ePub's?</dt>
         <dd> response</dd>
     </dl>
- </div> <!-- /container -->
+ <div class="row">
+     <ul>
+         <li> some images via <a href="https://openclipart.org/tags/checkmark">OpenClipArt</a></li>
+ </div>
 
+ </div> <!-- /container -->
     <script src="b/js/jquery.js"></script>
 </body>
