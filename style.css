@@ -11,7 +11,7 @@ table.comparison{
 }
 
 table.comparison td{
-    text-align:center;
+    text-align:left;
 }
 table.comparison th{
     background-color:black;
@@ -21,6 +21,18 @@ table.comparison tr:nth-child(2n){
     background-color:#ccc;
 }
 
+table.comparison th{
+    text-align:left;
+}
+
+table.comparison tr th.group1{
+    background-color:#efb80a;
+    color:black;
+}
+
+table.comparison .groups th{
+ font-weight:lighter;
+}
 .check{
     width:6ex;
 }
